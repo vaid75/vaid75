@@ -1,7 +1,8 @@
-## Hi there 👋 I’m Vaidehi Singh
+## Hi there 👋 
 
 ![Late Night Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
+I’m Vaidehi Singh
 
 🎓 Computer Science student | 🤖 AI & ML Enthusiast | 🌐 Web Developer | 💻 Problem Solver
 
