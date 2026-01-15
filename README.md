@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-![Late Night Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Anime Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
 
 I’m Vaidehi Singh
 
