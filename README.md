@@ -1,6 +1,8 @@
 ## Hi there 👋 
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="350" />
+</p>
 
-![Anime Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 
 I’m Vaidehi Singh
